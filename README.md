@@ -1,10 +1,10 @@
 # iplookup
 <h2> how to use for linux/mac: </h2>
-git clone https://github.com/AntiPedoCoalition/iplookup.git
+$ git clone https://github.com/AntiPedoCoalition/iplookup.git
 <br>
-cd iplookup
+$ cd iplookup
 <br>
-python3 lookup.py
+$ python3 lookup.py
 <br>
 then enter an IP address
 <h2> how to use for windows: </h2>
