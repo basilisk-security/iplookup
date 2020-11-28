@@ -18,7 +18,7 @@ ___  __   __                      __   ___     __         ___       ___
 =====================================================================================
 
 """)
-ip_add = input("targets IP: ")
+ip_add = input("enter an IP address: ")
 
 response = requests.get(f'http://ip-api.com/json/{ip_add}').content
 
