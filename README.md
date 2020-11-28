@@ -1,5 +1,5 @@
 # iplookup
-<h1> how to use for linux/mac: </h1>
+<h2> how to use for linux/mac: </h2>
 git clone https://github.com/AntiPedoCoalition/iplookup.git
 <br>
 cd iplookup
