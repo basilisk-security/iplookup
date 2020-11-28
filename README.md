@@ -7,5 +7,5 @@ cd iplookup
 python3 lookup.py
 <br>
 then enter an IP address
-<h1> how to use for windows: </h1>
+<h2> how to use for windows: </h2>
 windows is currently not supported.
